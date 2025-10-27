@@ -24,9 +24,7 @@
 <a href="#">
   <img src="https://img.shields.io/badge/Open%20Source-100%25-blueviolet?style=for-the-badge" alt="Open Source"/>
 </a>
-<a href="https://github.com/BeeEvolved/Bitcoin-Mining-Heat-Capture-Season-2025-HeatHarvest-Proof-of-Growth-Purple-Sweet-Potatoes-Crawfish./stargazers">
-  <img src="https://img.shields.io/github/stars/BeeEvolved/Bitcoin-Mining-Heat-Capture-Season-2025-Heat-Harvest-Proof-of-Growth-Purple-Sweet-Potatoes-Crawfish.?style=for-the-badge&logo=github" alt="GitHub Stars"/>
-</a>
+
 
 
 
