@@ -1,0 +1,1 @@
+# Bitcoin-Mining-Heat-Capture-Season-2025-HeatHarvest-Proof-of-Growth-Purple-Sweet-Potatoes-Crawfish.
